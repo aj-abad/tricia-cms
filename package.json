@@ -15,9 +15,9 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.9.1",
-    "@strapi/plugin-users-permissions": "4.9.1",
-    "@strapi/provider-upload-cloudinary": "4.9.1",
+    "@strapi/plugin-i18n": "4.25.23",
+    "@strapi/plugin-users-permissions": "5.36.0",
+    "@strapi/provider-upload-cloudinary": "5.36.0",
     "@strapi/strapi": "4.9.1",
     "@types/koa": "^2.13.6",
     "pg": "8.8.0",
