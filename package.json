@@ -21,7 +21,7 @@
     "@strapi/strapi": "4.9.1",
     "@types/koa": "^2.13.6",
     "pg": "8.8.0",
-    "slugify": "^1.6.6"
+    "slugify": "^1.6.9"
   },
   "devDependencies": {},
   "strapi": {
